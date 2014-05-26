@@ -61,4 +61,4 @@ github "xquartz",     "1.1.1"
 # https://github.com/boxen.
 
 github "iterm2",    "1.1.0"
-
+github "mplayerx",  "1.0.2"
